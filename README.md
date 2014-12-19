@@ -20,3 +20,20 @@ A collection of sloths I have made for future projects.
 [![sib](http://gh.landersbenjamin.com/everything-sloths/png/sib.png)](https://github.com/TheThirdOne/everything-sloths/blob/master/png/sib.png)
 [![sleuth](http://gh.landersbenjamin.com/everything-sloths/png/sleuth.png)](https://github.com/TheThirdOne/everything-sloths/blob/master/png/sleuth.png)
 [![super](http://gh.landersbenjamin.com/everything-sloths/png/super.png)](https://github.com/TheThirdOne/everything-sloths/blob/master/png/super.png)
+
+
+Todo:
+-----
+- Upload
+  - Link
+  - Sleauth
+  - Chef
+  - World
+  - Tf2
+  - Oculus
+  - Librarian
+  - Codeday
+  - Slender
+- Make
+  - Robotics
+  - More codeday
