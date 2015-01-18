@@ -38,3 +38,6 @@ Todo:
 - Make
   - Robotics
   - More codeday
+  - Photography
+  - Professor
+  - 
