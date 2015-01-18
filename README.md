@@ -4,6 +4,7 @@ Everything Sloths
 A collection of sloths I have made for future projects.
 
 [![backend](http://gh.landersbenjamin.com/everything-sloths/png/backend.png)](https://github.com/TheThirdOne/everything-sloths/blob/master/png/backend.png)
+[![eden](http://gh.landersbenjamin.com/everything-sloths/png/eden.png)](https://github.com/TheThirdOne/everything-sloths/blob/master/png/eden.png)
 [![fancy](http://gh.landersbenjamin.com/everything-sloths/png/fancy.png)](https://github.com/TheThirdOne/everything-sloths/blob/master/png/fancy.png)
 [![frontend](http://gh.landersbenjamin.com/everything-sloths/png/frontend.png)](https://github.com/TheThirdOne/everything-sloths/blob/master/png/frontend.png)
 [![guard](http://gh.landersbenjamin.com/everything-sloths/png/guard.png)](https://github.com/TheThirdOne/everything-sloths/blob/master/png/guard.png)
